@@ -17,3 +17,8 @@ logs/*
 *.pdb
 *.lib
 bin
+*.config
+*.creator
+*.creator.user
+*.files
+*.includes
