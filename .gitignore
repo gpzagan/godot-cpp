@@ -1,7 +1,9 @@
 # Generated bindings
 src/*.cpp
+src/gen
 src/*.hpp
 include/*.hpp
+include/gen
 *.json
 
 # Misc
